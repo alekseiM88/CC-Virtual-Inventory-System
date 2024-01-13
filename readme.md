@@ -1,4 +1,4 @@
-# Virtual Inventory System for CC:Tweaked
+# Virtual Inventory System for CC: Tweaked
 It will probably work with other ComputerCraft versions too.
 ---
 ## Usage
