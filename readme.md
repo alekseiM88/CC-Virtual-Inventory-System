@@ -23,4 +23,4 @@ Now that the system is configured, you should be good to go. Type in `help` to s
 ### What a fully set up inventory system might look like:
 ![Example layout of a virtual inventory system.](layoutexample.jpg)
 ---
-I recommend lauching the system from `startup.lua` if you want to have a dedicated computer for this.
+I recommend launching the system from `startup.lua` if you want to dedicated a computer for this.
